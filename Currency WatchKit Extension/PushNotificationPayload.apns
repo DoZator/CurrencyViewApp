@@ -1,0 +1,11 @@
+{
+    "aps": {
+        "alert": {
+            "body": "RUB",
+            "title": "Currency"
+        },
+        "category": "watch"
+    },
+    
+    "rate" : "55"
+}
